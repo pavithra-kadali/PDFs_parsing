@@ -1,0 +1,9 @@
+2025-11-11 15:30:32,274 - INFO - Starting PDF Table Extractor...
+2025-11-11 15:30:32,276 - INFO - Processing: C:/Users/pavithra.kalali/PycharmProjects/PythonProject1/pdfs\CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28.pdf
+2025-11-11 15:30:34,453 - INFO - Extracted 2 unique tables from CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28.pdf
+2025-11-11 15:30:34,453 - INFO - Processing: C:/Users/pavithra.kalali/PycharmProjects/PythonProject1/pdfs\PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf
+2025-11-11 15:30:34,898 - INFO - Extracted 1 unique tables from PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf
+2025-11-11 15:30:34,898 - INFO - Processing: C:/Users/pavithra.kalali/PycharmProjects/PythonProject1/pdfs\test_pdf.pdf
+2025-11-11 15:30:35,353 - INFO - Extracted 1 unique tables from test_pdf.pdf
+2025-11-11 15:30:35,565 - INFO - \u2705 Excel file saved: C:/Users/pavithra.kalali/PycharmProjects/PythonProject1/output\extracted_table_data.xlsx
+2025-11-11 15:30:52,157 - INFO - Log file: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\logs\extract_log.log

@@ -1,0 +1,58 @@
+2025-11-07 12:58:13 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 12:58:13 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 12:58:13 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 12:58:13 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 12:58:13 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output.xlsx
+2025-11-07 12:58:13 - ERROR - Critical error during Excel writing: No module named 'xlsxwriter'
+2025-11-07 12:58:13 - INFO - The application will now exit.
+2025-11-07 13:10:54 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:10:54 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:10:54 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:10:54 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:10:54 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output.xlsx
+2025-11-07 13:10:54 - ERROR - Critical error during Excel writing: No module named 'xlsxwriter'
+2025-11-07 13:10:54 - INFO - The application will now exit.
+2025-11-07 13:11:22 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:11:22 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:11:22 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:11:22 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:11:22 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output
+2025-11-07 13:11:22 - ERROR - Critical error during Excel writing: No module named 'xlsxwriter'
+2025-11-07 13:11:22 - INFO - The application will now exit.
+2025-11-07 13:12:52 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:12:52 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:12:52 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:12:52 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:12:52 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output
+2025-11-07 13:12:52 - ERROR - Critical error during Excel writing: No module named 'xlsxwriter'
+2025-11-07 13:12:52 - INFO - The application will now exit.
+2025-11-07 13:13:52 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:13:52 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:13:52 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:13:52 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:13:52 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output
+2025-11-07 13:13:52 - ERROR - Critical error during Excel writing: [Errno 13] Permission denied: 'C:\\Users\\pavithra.kalali\\PycharmProjects\\PythonProject1\\output'
+2025-11-07 13:13:52 - INFO - The application will now exit.
+2025-11-07 13:14:23 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:14:23 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:14:23 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:14:23 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:14:23 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output.xlsx
+2025-11-07 13:14:25 - INFO -   - Found 1 tables using 'lattice' flavor.
+2025-11-07 13:14:25 - INFO - Found 1 tables for CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28. Writing to sheet 'CVS-PHARMACY-06252-1502839-Fina'.
+2025-11-07 13:14:25 - ERROR - Critical error during Excel writing: 'Table' object has no attribute 'filepath'
+2025-11-07 13:14:25 - INFO - The application will now exit.
+2025-11-07 13:14:37 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:14:37 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:14:37 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+2025-11-07 13:14:37 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:14:37 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output
+2025-11-07 13:14:37 - ERROR - Critical error during Excel writing: [Errno 13] Permission denied: 'C:\\Users\\pavithra.kalali\\PycharmProjects\\PythonProject1\\output'
+2025-11-07 13:14:37 - INFO - The application will now exit.
+2025-11-07 13:15:57 - INFO - --- PDF Table Extractor Started ---
+2025-11-07 13:15:57 - INFO - Config file loaded from: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\config.ini
+2025-11-07 13:15:57 - INFO - Ensured output directory exists: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output
+2025-11-07 13:15:57 - INFO - PDF Folder: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs
+2025-11-07 13:15:57 - INFO - Excel Output: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output/extracted_tables.xlsx  ; <-- Correct: Directory + Filename
+2025-11-07 13:15:57 - ERROR - Critical error during Excel writing: Invalid extension for engine '<property object at 0x00000140675A8E50>': 'xlsx  ; <-- Correct: Directory + Filename'
+2025-11-07 13:15:57 - INFO - The application will now exit.

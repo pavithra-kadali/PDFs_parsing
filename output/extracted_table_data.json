@@ -1,0 +1,106 @@
+{
+    "CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28.pdf": {
+        "metadata": {
+            "AUDIT ID": "I-11421",
+            "NCPDP": "1502839",
+            "Date": "10/28/2025",
+            "Address": "CVS PHARMACY #06252, 4480 FIRST AVENUE, EVANSVILLE, IN 47710-0000, PHONE: 8124251525, FAX: 4017351080",
+            "Subject": "RE: FINAL DETERMINATION OF FWA DESK AUDIT"
+        },
+        "tables": [
+            {
+                "title": "Final Determination of FWA Desk Audit",
+                "data": [
+                    {
+                        "RX #": 3220289,
+                        "REFILL\r#": 0,
+                        "FILL DATE": "03/28/2025",
+                        "POTENTIAL\rRECOUPMENT\rAMOUNT*": "$4.88",
+                        "CLAIM ID": 9605025766,
+                        "ORIG\rQTY": 30,
+                        "NEW\rQTY": 23,
+                        "ORIG\rDS": 15,
+                        "NEW\rDS": 21,
+                        "DISCREPANCY": "1B",
+                        "APPEAL\rDISPOSITION": 5,
+                        "COMMENT": "120 mL is sufficient for 1 dose\rper 7 days. MedImpact will\radjust the day supply."
+                    },
+                    {
+                        "RX #": 3207698,
+                        "REFILL\r#": 1,
+                        "FILL DATE": "03/28/2025",
+                        "POTENTIAL\rRECOUPMENT\rAMOUNT*": "$22.91",
+                        "CLAIM ID": 9603340210,
+                        "ORIG\rQTY": 60,
+                        "NEW\rQTY": 23,
+                        "ORIG\rDS": 30,
+                        "NEW\rDS": 21,
+                        "DISCREPANCY": "1B",
+                        "APPEAL\rDISPOSITION": 5,
+                        "COMMENT": "120 mL is sufficient for 1 dose\rper 7 days. MedImpact will\radjust the day supply."
+                    }
+                ]
+            },
+            {
+                "title": "Discrepancy Description(s)",
+                "data": [
+                    {
+                        "DISCREPANCY CODE": "1B",
+                        "DISCREPANCY CODE DESCRIPTION": "Missing or incorrect compound code submitted",
+                        "DOCUMENTATION ACCEPTED FOR REVIEW": "No Appeal documentation accepted"
+                    }
+                ]
+            }
+        ]
+    },
+    "PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf": {
+        "metadata": {
+            "AUDIT ID": "I-11722",
+            "NCPDP": "1095860",
+            "Date": "10/30/2025",
+            "Address": "PUBLIX PHARMACY #1410, 6767 US HIGHWAY 98 N, LAKELAND, FL 33809-0000, PHONE: 8638595838, FAX: 8638596517",
+            "Subject": "RE: CORRECTIVE ACTION PLAN (CAP) AUDIT – RESPONSE DUE DATE"
+        },
+        "tables": [
+            {
+                "title": "Audit Claim List",
+                "data": [
+                    {
+                        "RX #": 7222572,
+                        "FILL DATE": "09/09/2025",
+                        "DRUG NAME": "AMLODIPINE BESYLATE 5 MG TAB",
+                        "QUANTITY": 90,
+                        "DAYS SUPPLY": 90,
+                        "CLAIM ID": 9810707886,
+                        "STORE #": 1410
+                    }
+                ]
+            }
+        ]
+    },
+    "test_pdf.pdf": {
+        "metadata": {
+            "AUDIT ID": "I-11722",
+            "NCPDP": "1095860",
+            "Date": "10/30/2025",
+            "Address": "PUBLIX PHARMACY #1410, 6767 US HIGHWAY 98 N, LAKELAND, FL 33809-0000, PHONE: 8638595838, FAX: 8638596517",
+            "Subject": "RE: CORRECTIVE ACTION PLAN (CAP) AUDIT – RESPONSE DUE DATE"
+        },
+        "tables": [
+            {
+                "title": "Audit Claim List",
+                "data": [
+                    {
+                        "RX #": 7222572,
+                        "FILL DATE": "09/09/2025",
+                        "DRUG NAME": "AMLODIPINE BESYLATE 5 MG TAB",
+                        "QUANTITY": 90,
+                        "DAYS SUPPLY": 90,
+                        "CLAIM ID": 9810707886,
+                        "STORE #": 1410
+                    }
+                ]
+            }
+        ]
+    }
+}

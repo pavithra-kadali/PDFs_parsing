@@ -1,0 +1,12 @@
+========== CAMELLOT PDF TABLE EXTRACTOR STARTED ==========
+Base directory: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1
+[PROCESSING] CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28.pdf
+[INFO] Extracted 1 tables from CVS-PHARMACY-06252-1502839-Final-Determination-of-FWA-Desk-Audit_KY-I-11421-2025-10-28.pdf
+[PROCESSING] PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf
+[INFO] No tables found with lattice for C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs\PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf. Trying stream mode...
+[INFO] Extracted 4 tables from PUBLIX-PHARMACY-1410-1095860-Initial-Investigation-Audit-Request---CAP-I-11722-2025-10-30.pdf
+[PROCESSING] test_pdf.pdf
+[INFO] No tables found with lattice for C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\pdfs\test_pdf.pdf. Trying stream mode...
+[INFO] Extracted 4 tables from test_pdf.pdf
+[SUCCESS] Excel file created successfully: C:\Users\pavithra.kalali\PycharmProjects\PythonProject1\output\Extracted_PDF_Tables.xlsx
+========== SCRIPT FINISHED ==========
